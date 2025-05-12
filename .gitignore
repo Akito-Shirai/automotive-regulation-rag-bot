@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Chroma DB
+chroma_db/
+
+# Ignore data folder content
+data/*
+!data/.gitkeep
